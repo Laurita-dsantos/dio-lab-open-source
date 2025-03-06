@@ -20,7 +20,7 @@ Estudando sobre AI.
 
 ### Habilidades
 
-![Trabalho em equipe](https://img.shields.io/badge/Trabalho em equipe-000?style=for-the-badge&logo=html&logoColor=30A3DC)
+![Trabalho em equipe](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html&logoColor=30A3DC)
 ![Pensamento crítico](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 ![Gerenciamento de tempo](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=30A3DC)
 [![Comunição](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc)
